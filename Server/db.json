@@ -1,0 +1,22 @@
+{
+  "members": [
+    {
+      "id": "c758936c-7a7f-4f51-96d4-cda4531b30da",
+      "firstName": "HANEESH",
+      "lastName": "SREE HARSHAN",
+      "email": "haneeshsharshan@gmail.com"
+    },
+    {
+      "id": "9bcea4e2-8733-4588-98b4-0cb2e9e583d3",
+      "firstName": "Aswathy",
+      "lastName": "VS",
+      "email": "aswathy@gmail.com"
+    },
+    {
+      "id": "afdd91e4-b5c2-488f-91b1-e16edcf6f31f",
+      "firstName": "sandeep",
+      "lastName": "S",
+      "email": "revathyvsathyan@gmail.com"
+    }
+  ]
+}
